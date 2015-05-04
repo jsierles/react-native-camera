@@ -19,5 +19,6 @@
     "qr",
     "code",
     "barcode"
-  ]
+  ],
+  "nativePackage": true
 }
